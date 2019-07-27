@@ -1,5 +1,5 @@
 # eshop网上商城
-#### 技术选型:
+### 技术选型:
 
 后台框架：Spring、SpringMVC、MyBatis
 
@@ -15,7 +15,7 @@
 
 
 
-#### 模块介绍：
+### 模块介绍：
 
 commons：存放Cookies、HttpClient等工具类
 
@@ -39,13 +39,13 @@ search：搜索模块
 
 
 
-#### 系统框架：
+### 系统框架：
 
 ![portal](pic/Flow.jpg)
 
 
 
-#### 项目效果：
+### 项目效果：
 
 ##### 门户模块
 
