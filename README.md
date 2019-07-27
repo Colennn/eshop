@@ -47,7 +47,7 @@ search：搜索模块
 
 ​	学习开发这个电商项目前后花费了好几个月的时间，学习了SSM整合、Dubbo框架、Maven模块化开发等技术。学习让我十分充实，更重要的是，要在学习中不断总结。下面就是我对整个开发项目重要知识点的总结。
 
-[Spring知识点总结](study/Spring.md)
+[Spring知识点总结](study/spring.md)
 
 
 
