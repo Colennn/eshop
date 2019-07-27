@@ -34,6 +34,15 @@
 	<!-- 内容 -->
 	<dubbo:service interface="com.eshop.dubbo.service.TbContentDubboService" ref="tbContentDubboServiceImpl"></dubbo:service>
 	<bean id="tbContentDubboServiceImpl" class="com.eshop.dubbo.service.impl.TbContentDubboServiceImpl"></bean>
+	<!-- 商品规格参数 -->
+	<dubbo:service interface="com.eshop.dubbo.service.TbItemParamItemDubboSerice" ref="tbItemParamItemDubboServiceImpl"></dubbo:service>
+	<bean id="tbItemParamItemDubboServiceImpl" class="com.eshop.dubbo.service.impl.TbItemParamItemDubboServiceImpl"></bean>
+	<!-- 用户 -->
+	<dubbo:service interface="com.eshop.dubbo.service.TbUserDubboService" ref="tbUserDubboServiceImpl"></dubbo:service>
+	<bean id="tbUserDubboServiceImpl" class="com.eshop.dubbo.service.impl.TbUserDubboServiceImpl"></bean>
+	<!-- 订单 -->
+	<dubbo:service interface="com.eshop.dubbo.service.TbOrderDubboService" ref="tbOrderDubboServiceImpl"></dubbo:service>
+	<bean id="tbOrderDubboServiceImpl" class="com.eshop.dubbo.service.impl.TbOrderDubboServiceImpl"></bean>
 	
 	
 	

@@ -1,5 +1,7 @@
 package com.eshop.dubbo.service;
 
+import java.util.List;
+
 import com.eshop.commons.pojo.EasyUIDataGrid;
 import com.eshop.pojo.TbItem;
 import com.eshop.pojo.TbItemDesc;
@@ -38,4 +40,17 @@ public interface TbItemDubboService {
 	 * @throws Exception 
 	 */
 	int insTbItemDesc(TbItem tbItem, TbItemDesc tbItemDesc, TbItemParamItem tbItemParamItem) throws Exception;
+	
+	/**
+	 * 通过状态查询全部可用数据
+	 * @return
+	 */
+	List<TbItem> selAllByStatus(byte status);
+	
+	/**
+	 * 根据主键查询
+	 * @param id
+	 * @return
+	 */
+	TbItem selById(long id);
 }

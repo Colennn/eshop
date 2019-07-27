@@ -193,5 +193,9 @@
 		<module>eshop-portal</module>
 		<module>eshop-item</module>
 		<module>eshop-redis</module>
+		<module>eshop-search</module>
+		<module>eshop-passport</module>
+		<module>eshop-cart</module>
+		<module>eshop-order</module>
 	</modules>
 </project>

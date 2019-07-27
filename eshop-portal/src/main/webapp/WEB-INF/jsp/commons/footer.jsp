@@ -58,10 +58,10 @@
 		<div class="fr">
 			<div class="sm" id="branch-office">
 				<div class="smt">
-					<h3>易购自营覆盖区县</h3>
+					<h3>商城自营覆盖区县</h3>
 				</div>
 				<div class="smc">
-					<p>易购已向全国1859个区县提供自营配送服务，支持货到付款、POS机刷卡和售后上门服务。</p>
+					<p>商城已向全国1859个区县提供自营配送服务，支持货到付款、POS机刷卡和售后上门服务。</p>
 					<p class="ar"><a href="http://help.jd.com/help/distribution-768.html" target="_blank">查看详情&nbsp;></a></p>
 				</div>
 			</div>

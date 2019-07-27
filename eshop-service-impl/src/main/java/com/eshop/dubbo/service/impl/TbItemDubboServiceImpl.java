@@ -69,4 +69,16 @@ public class TbItemDubboServiceImpl implements TbItemDubboService{
 		}
 	}
 
+	@Override
+	public List<TbItem> selAllByStatus(byte status) {
+		TbItemExample example = new TbItemExample();
+		example.createCriteria().andStatusEqualTo(status);
+		return tbItemMapper.selectByExample(example);
+	}
+
+	@Override
+	public TbItem selById(long id) {
+		return tbItemMapper.selectByPrimaryKey(id);
+	}
+
 }
