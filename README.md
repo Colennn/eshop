@@ -41,7 +41,7 @@ search：搜索模块
 
 #### 系统框架：
 
-![portal](pic\Flow.jpg)
+![portal](pic/Flow.jpg)
 
 
 
@@ -49,26 +49,26 @@ search：搜索模块
 
 ##### 门户模块
 
-![portal](pic\portal.png)
+![portal](pic/portal.png)
 
 ##### 购物车模块
 
-![cart](pic\cart.png)
+![cart](pic/cart.png)
 
 ##### 商品模块
 
-![item](pic\item.png)
+![item](pic/item.png)
 
 ##### 后台模块
 
-![manage](pic\manage.png)
+![manage](pic/manage.png)
 
-![manage1](pic\manage1.png)
+![manage1](pic/manage1.png)
 
-![manage2](pic\manage2.png)
+![manage2](pic/manage2.png)
 
 ##### 订单模块
 
-![order](pic\order.png)
+![order](pic/order.png)
 
-![order1](pic\order1.png)
+![order1](pic/order1.png)
