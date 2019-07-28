@@ -51,6 +51,17 @@ search：搜索模块
 
 [SSM整合知识点](https://github.com/JavaCorn/HelloWorld/blob/master/README.md)
 
+[SOA框架、Dubbo原理](/study/Dubbo.md)
+
+[Jsonp、HttpClient在跨域中的使用](/study/AJAX、Jsonp、HttpClient.md)
+
+[Linux常用命令及系统目录介绍](/study/Linux.md)
+
+[Redis、Jedis、Junit4](/study/Redis.md)
+
+[Solr基本知识点](/study/Solr.md)
+
+[Nginx反向代理、负载均衡](/study/Nginx.md)
 
 
 
