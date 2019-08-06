@@ -49,7 +49,7 @@ search：搜索模块
 
 [Spring知识点总结](study/spring.md)
 
-[SSM整合知识点](https://github.com/JavaCorn/HelloWorld/blob/master/README.md)
+[SSM整合知识点](https://github.com/JavaCorn/HelloWorld/blob/master/SSM/README.md)
 
 [SOA框架、Dubbo原理](/study/Dubbo.md)
 
