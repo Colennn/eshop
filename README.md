@@ -59,8 +59,6 @@ search：搜索模块
 
 [Redis、Jedis、Junit4](/study/Redis.md)
 
-[Solr基本知识点](/study/Solr.md)
-
 [Nginx反向代理、负载均衡](/study/Nginx.md)
 
 
